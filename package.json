@@ -1,0 +1,27 @@
+{
+  "name": "teralauncher",
+  "version": "0.0.1",
+  "description": "Greenfield project to renovate the Terasology Launcher.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skaldarnar/TeraLauncher.git"
+  },
+  "author": "The Terasology Foundation",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/skaldarnar/TeraLauncher/issues"
+  },
+  "homepage": "https://github.com/skaldarnar/TeraLauncher#readme",
+  "devDependencies": {
+    "electron": "^10.1.2",
+    "electron-builder": "^22.8.1"
+  },
+  "dependencies": {
+    "electron-updater": "^4.3.5"
+  }
+}
