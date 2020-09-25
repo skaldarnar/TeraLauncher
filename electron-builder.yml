@@ -1,0 +1,3 @@
+appId: org.terasology.TeraLauncher
+publish:
+  provider: github
