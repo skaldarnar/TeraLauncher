@@ -1,6 +1,6 @@
 {
   "name": "teralauncher",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Greenfield project to renovate the Terasology Launcher.",
   "main": "main.js",
   "scripts": {
