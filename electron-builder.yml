@@ -1,3 +1,5 @@
 appId: org.terasology.TeraLauncher
 publish:
   provider: github
+linux:
+  target: tar.gz
